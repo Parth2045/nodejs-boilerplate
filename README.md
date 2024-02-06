@@ -2,7 +2,7 @@
 
 # Welcome to the boilerplate of structured NodeJS application with ExpressJS.
 
-# You just need to clone this application to kick start with.
+# Run this simple command to kick-start this application.
 
 # run in cmd: npm i
 
