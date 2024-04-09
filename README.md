@@ -6,4 +6,6 @@
 
 # run in cmd: npm i
 
-# Visit http://127.0.0.1:4000/api/welcome
+# the run: npm start
+
+# and Visit http://127.0.0.1:4000/api/welcome
