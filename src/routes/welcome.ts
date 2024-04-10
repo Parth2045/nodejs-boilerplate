@@ -1,4 +1,4 @@
-import * as welcomeController from '../controllers/welcome.js'; 
+import * as welcomeController from '../controllers/welcome';
 import * as express from 'express';
 const router = express.Router();
 

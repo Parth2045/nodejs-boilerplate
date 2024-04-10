@@ -1,5 +1,5 @@
-import dotenv from 'dotenv';
-import express from 'express';
+import * as dotenv from 'dotenv';
+import * as express from 'express';
 
 const app = express(); // START USING EXPRESS
 dotenv.config(); // MAKE ACCESSIBLE ENV VARIABLES
